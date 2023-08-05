@@ -2,4 +2,4 @@
 
 Built using HTML, CSS and JAvaScript.
 
-Project Deployment Link: 
+Project Deployment Link: https://rp7007.github.io/F3-Module-Test-July/
